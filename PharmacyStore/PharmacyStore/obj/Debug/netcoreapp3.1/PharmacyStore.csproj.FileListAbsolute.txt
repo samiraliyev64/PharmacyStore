@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\bin\Debug\netcoreapp3.1\PharmacyStore.exe
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\bin\Debug\netcoreapp3.1\PharmacyStore.deps.json
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\bin\Debug\netcoreapp3.1\PharmacyStore.runtimeconfig.json
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\bin\Debug\netcoreapp3.1\PharmacyStore.runtimeconfig.dev.json
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\bin\Debug\netcoreapp3.1\PharmacyStore.dll
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\bin\Debug\netcoreapp3.1\PharmacyStore.pdb
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\obj\Debug\netcoreapp3.1\PharmacyStore.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\obj\Debug\netcoreapp3.1\PharmacyStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\obj\Debug\netcoreapp3.1\PharmacyStore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\obj\Debug\netcoreapp3.1\PharmacyStore.AssemblyInfo.cs
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\obj\Debug\netcoreapp3.1\PharmacyStore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\obj\Debug\netcoreapp3.1\PharmacyStore.dll
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\obj\Debug\netcoreapp3.1\PharmacyStore.pdb
+C:\Users\User\source\repos\PharmacyStore\PharmacyStore\obj\Debug\netcoreapp3.1\PharmacyStore.genruntimeconfig.cache
